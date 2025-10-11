@@ -1,7 +1,7 @@
 # Personal Expense Tracker – Python + SQLite
 
-A simple Command-Line Expense Tracker built in Python with SQLite.
-The project allows you to manage daily expenses, generate reports, and forecast future spending.
+A modular **Expense Tracker** built with **Python and SQLite**, designed for personal finance management via the command line.  
+Includes complete CRUD operations, smart reporting, expense forecasting, and database lifecycle utilities such as **backup**, **restore**, **migration**, and **ID reset**.
 
 ---
 
