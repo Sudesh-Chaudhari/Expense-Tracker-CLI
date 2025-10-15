@@ -163,8 +163,6 @@ sequenceDiagram
     App-->>User: Display Results or Reports
 ```
 
-![Sequence Diagram](sequence.png)
-
 ## Visualizations
 
 ### 🧾 Example CLI Menu
