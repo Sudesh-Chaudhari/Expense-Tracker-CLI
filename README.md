@@ -150,18 +150,7 @@ python main.py
 
 ## How It Works
 
-> **Note:** If the diagrams do not render, visit [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) to view or modify them.
-
-```sequenceDiagram
-    participant User
-    participant App
-    participant SQLite
-
-    User->>App: Select Menu Option
-    App->>SQLite: Query or Update DB
-    SQLite-->>App: Return Data / Confirmation
-    App-->>User: Display Results or Reports
-```
+![Sequence Diagram](sequence.png)
 
 ## Visualizations
 
