@@ -4,7 +4,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Expense-Tracker?color=brightgreen)
 ![Python Version](https://img.shields.io/badge/python-3.x-yellow.svg)
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey)
 
 ---
 
